@@ -41,12 +41,3 @@ This project focuses on Word Sense Disambiguation (WSD), a crucial challenge in 
 
 ## Conclusion
 The BERT-based Word Sense Disambiguation (BERT-WSD) model outperformed all other models, demonstrating the effectiveness of transformer-based architectures for this task. The success of BERT can be attributed to its bidirectional context modeling, attention mechanism, and pre-training on large-scale data.
-
-## Setup and Usage
-(Add instructions for setting up the project, installing dependencies, and running the models)
-
-## Requirements
-(List the required libraries and their versions)
-
-## References
-(Add any relevant references or citations)
